@@ -1,0 +1,2 @@
+gcc -o udp_socket_server udp_socket_server.c 
+gcc -o udp_socket_client udp_socket_client.c 
